@@ -1,4 +1,6 @@
-# Exercise 11: Write a function to count the occurrences of each character 
+# Exercise 01: 
+
+# Write a function to count the occurrences of each character 
 # in a string and return them as a dictionary.
 
 # define the function and initialize the dictionary and count
