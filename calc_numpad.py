@@ -10,3 +10,5 @@ for num in num_pad:
     for n in num:
         print(n, end=" ")
     print()
+    
+    
